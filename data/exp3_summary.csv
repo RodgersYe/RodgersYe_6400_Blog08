@@ -1,0 +1,2 @@
+"null_hypothesis_mean","population_sd","sample_size","null_simulations","significance_level","simulated_critical_absolute_t","study_true_mean","observed_sample_mean","observed_sample_sd","observed_t_statistic","number_of_null_statistics_as_extreme","simulated_two_sided_p_value","reject_null_at_5_percent"
+5000,1000,100,10000,0.05,1.96117177379443,5200,5233.35289788761,900.023245016957,2.59274301168979,110,0.0110988901109889,TRUE
